@@ -1,0 +1,52 @@
+body{ 
+background-color:pink;
+}
+s
+{ margin: 0;
+	padding: 0;
+	box-sizing:border-box; 
+	font-family: sans-serif;
+ }
+ p,ol{
+ 	font-family: sans-serif;
+ 	color:black;
+
+
+}
+
+
+nav,a,ul,li{
+	font-family: sans-serif;
+	font-size:20px;
+	text-decoration: none; 
+	color: black;
+	display: inline-block;
+	justify-content:space-around;
+
+}
+
+.banner{
+	 background-color: green;
+	 background-image: url(images/bannerxxx.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+
+}
+.logo img{
+	width:100px;
+	height:100px;  
+	display:inline-block;
+}
+}
+.banner2{
+	background-color: green; 
+
+}
+.logk img{
+	width:20%
+}
+h2,h3,h4,h5{
+	color: green;
+	padding: 20%
+	margin:10px
+}
